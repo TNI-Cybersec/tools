@@ -1,7 +1,8 @@
 # tools
 
 ![cover](https://raw.githubusercontent.com/TNI-Cybersec/tni-cybersec.github.io/main/img/CyberPic.jpg)
-Curated list of tools for CTF
+
+<p align="center">Curated list of tools for CTF</p>
 
 ## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
 
