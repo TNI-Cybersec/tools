@@ -1,10 +1,10 @@
-# tools
+# Tools
 
 ![cover](https://raw.githubusercontent.com/TNI-Cybersec/tni-cybersec.github.io/main/img/CyberPic.jpg)
 
 <p align="center">Curated list of tools for CTF</p>
 
-## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
+## 🛠 [Awesome Tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
 
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [Burp Suite](https://portswigger.net/burp)
@@ -21,7 +21,7 @@
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 - [Wastc](https://github.com/babebbu/wastc)
 
-## <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25"></img> TNI Cybersec Original
+## <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25" /> TNI Cybersec Original
 
 Original tools made with ❤️ by TNI Cybersec team
 
