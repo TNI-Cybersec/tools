@@ -13,13 +13,15 @@
 - [IDA](https://hex-rays.com/ida-free/#download)
 - [Ghidra](https://ghidra-sre.org)
 - [testssl.sh](https://github.com/drwetter/testssl.sh)
-- [DirBuster ](https://github.com/KajanM/DirBuster)
+- [DirBuster](https://github.com/KajanM/DirBuster)
 - [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
 - [Nmap](https://nmap.org)
 - [Wireshark](https://www.wireshark.org/download.html)
 - [HxD](https://mh-nexus.de/en/hxd)
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 - [Wastc](https://github.com/babebbu/wastc)
+- [StegOnline](https://stegonline.georgeom.net/upload)
+- [OSINT Tools](https://www.osinttechniques.com/osint-tools.html)
 
 ## <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25" /> TNI Cybersec Original
 
